@@ -34,6 +34,11 @@ mantenidas con el club hemos sacado las siguientes conclusiones:
 
 - Crear el diagrama de casos de uso para Partidos.
 
+## Ejercicios DAM 2023/24
+- Caso de uso para Equipos: Crear y recuperar uno en concreto.
+- Caso de uso para Partidos: Crear y recuperar uno en concreto.
+- Caso e uso para Jugadores: Crear jugador, recuperar un jugador en concreto, recuperar todos los jugadores.
+
 ## Ejercicio 4
 
 - Desarrollar las clases necesarias, casos de uso y almacenamiento en fichero para la gestión de partidos.
